@@ -8,9 +8,6 @@
     "start": "next start",
     "lint": "next lint"
   },
-  "keywords": [
-    "sanity"
-  ],
   "dependencies": {
     "@sanity/client": "^3.4.1",
     "@sanity/image-url": "^1.0.1",
